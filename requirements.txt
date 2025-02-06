@@ -6,4 +6,4 @@ pydub
 streamlit
 gTTS
 python-dotenv==0.20.0
-ffmpeg
+ffmpeg-python
