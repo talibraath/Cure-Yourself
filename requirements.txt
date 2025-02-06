@@ -1,0 +1,6 @@
+openai-whisper
+language-tool-python
+whisper
+openai
+pydub
+gTTS
