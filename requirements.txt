@@ -3,7 +3,9 @@ language-tool-python
 whisper
 openai
 pydub
-streamlit
 gTTS
 python-dotenv==0.20.0
 ffmpeg-python
+streamlit==1.21.0
+torch==2.0.0
+ffmpeg-python==0.2.0
