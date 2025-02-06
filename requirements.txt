@@ -7,5 +7,5 @@ gTTS
 python-dotenv==0.20.0
 ffmpeg-python
 streamlit
-torch==2.0.0
+torch
 ffmpeg-python==0.2.0
