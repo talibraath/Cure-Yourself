@@ -5,4 +5,5 @@ openai
 pydub
 streamlit
 gTTS
-python-dotenv==0.20.0 
+python-dotenv==0.20.0
+ffmpeg
